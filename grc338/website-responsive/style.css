@@ -8,16 +8,24 @@ div.home-container {
 	background-size: cover;
 	position: relative;
 	min-height: 100vh;
+	max-width: 80em;
+	margin: auto;
 }
 
 div.container { 
 	position: relative;
 	min-height: 100vh;
 	background-color: rgb(255, 255, 255);
+	max-width: 80em;
+	margin: auto;
 }
 
 /* >>> IMPORTANT: you have to change the wrap the content of your home page (index) in a div with a class home-container to make it work. If you used a div with the class container on your home, you’ll only need to change the name of the class.  */
 
+body {
+	font-family: sans-serif;
+	background-color: rgb(255, 0, 0);
+}
 
 main { 
 	padding: 1em 2em 5em;
@@ -26,10 +34,6 @@ main {
 img {
     width: 100%; /*Please leave this line.*/
      display: block;
-}
-
-body {
-	font-family: sans-serif;
 }
 
 header {
@@ -158,10 +162,6 @@ footer p {
 }
 
 @media screen and (min-width: 60em) {
-	body {
-	padding: 0 3em;
-	background-color: rgb(255, 0, 0);
-	}
 
 	nav ul{
 		padding: 2em;
