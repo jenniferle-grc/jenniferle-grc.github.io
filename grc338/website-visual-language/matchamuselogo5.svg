@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 783.64 177.05">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #efeeee;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-3 {
+        stroke-width: 3.62px;
+      }
+
+      .cls-2 {
+        stroke-width: 3.83px;
+      }
+
+      .cls-4 {
+        font-family: Avenir-Black, Avenir;
+        font-size: 72px;
+        font-weight: 800;
+      }
+
+      .cls-4, .cls-3 {
+        fill: #6d8b52;
+      }
+
+      .cls-5 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-6 {
+        letter-spacing: .07em;
+      }
+    </style>
+  </defs>
+  <text class="cls-4" transform="translate(0 121.9)"><tspan class="cls-6" x="0" y="0">M</tspan><tspan class="cls-5" x="73.37" y="0">A</tspan><tspan class="cls-6" x="125.5" y="0" xml:space="preserve">TCHA        MUSE</tspan></text>
+  <path class="cls-3" d="M447.86,2.41s-83.55,67.6,0,155.89c0,0,86.25-72.93,0-155.89Z"/>
+  <path class="cls-3" d="M375.15,58.41s-8.66,95.22,73.1,98.1c0,0,10.58-80.79-73.1-98.1Z"/>
+  <line class="cls-1" x1="375.15" y1="58.41" x2="448.25" y2="156.51"/>
+  <polyline class="cls-1" points="379.04 99.59 417.55 115.31 433.44 94.57"/>
+  <line class="cls-2" x1="447.7" y1="2.41" x2="447.7" y2="177.05"/>
+  <polyline class="cls-1" points="416.75 46.97 447.98 80.36 479.75 46.97"/>
+  <path class="cls-3" d="M521.78,58.41s8.66,95.22-73.1,98.1c0,0-10.58-80.79,73.1-98.1Z"/>
+  <line class="cls-1" x1="521.78" y1="58.41" x2="448.68" y2="156.51"/>
+  <polyline class="cls-1" points="517.89 99.59 479.38 115.31 463.49 94.57"/>
+</svg>
