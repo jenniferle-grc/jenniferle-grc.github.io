@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 886.04 173.66">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #efeeee;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-3 {
+        stroke-width: 3.55px;
+      }
+
+      .cls-2 {
+        stroke-width: 3.75px;
+      }
+
+      .cls-4 {
+        font-family: BasicSans-Black, 'Basic Sans';
+        font-size: 90px;
+        font-weight: 800;
+      }
+
+      .cls-4, .cls-3 {
+        fill: #6d8b52;
+      }
+
+      .cls-5 {
+        letter-spacing: .1em;
+      }
+
+      .cls-6 {
+        letter-spacing: .08em;
+      }
+
+      .cls-7 {
+        letter-spacing: .08em;
+      }
+
+      .cls-8 {
+        letter-spacing: .04em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1" data-name="Layer 1">
+    <text class="cls-4" transform="translate(0 113.1)"><tspan class="cls-5" x="0" y="0">M</tspan><tspan class="cls-8" x="87.12" y="0">A</tspan><tspan class="cls-7" x="147.69" y="0">T</tspan><tspan class="cls-5" x="207.99" y="0">CH</tspan><tspan class="cls-6" x="349.38" y="0">A</tspan><tspan class="cls-5" x="414" y="0" xml:space="preserve">        MUSE</tspan></text>
+  </g>
+  <g id="Layer_2" data-name="Layer 2">
+    <path class="cls-3" d="M510.53,2.36s-81.95,66.3,0,152.91c0,0,84.6-71.53,0-152.91Z"/>
+    <path class="cls-3" d="M439.21,57.29s-8.49,93.4,71.7,96.23c0,0,10.38-79.25-71.7-96.23Z"/>
+    <line class="cls-1" x1="439.21" y1="57.29" x2="510.91" y2="153.52"/>
+    <polyline class="cls-1" points="443.02 97.69 480.79 113.1 496.38 92.76"/>
+    <line class="cls-2" x1="510.37" y1="2.36" x2="510.37" y2="173.66"/>
+    <polyline class="cls-1" points="480.01 46.07 510.64 78.82 541.8 46.07"/>
+    <path class="cls-3" d="M583.03,57.29s8.49,93.4-71.7,96.23c0,0-10.38-79.25,71.7-96.23Z"/>
+    <line class="cls-1" x1="583.03" y1="57.29" x2="511.33" y2="153.52"/>
+    <polyline class="cls-1" points="579.22 97.69 541.44 113.1 525.85 92.76"/>
+  </g>
+</svg>
