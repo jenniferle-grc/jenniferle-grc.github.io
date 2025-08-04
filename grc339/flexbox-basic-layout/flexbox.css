@@ -79,7 +79,6 @@ a {
 @media screen and (max-width: 50em) {
 	div.container {
     	flex-direction: column;
-    	padding: 1em;
 	}
 	
 	article,
@@ -87,11 +86,9 @@ a {
   	header,
   	footer {
     	flex: 1 0 100%;
-    	padding: 0.5em 0;
   	}
 
   	section {
     	margin-left: 0;
-    	padding: 1em;
   	}
 }
