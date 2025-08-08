@@ -34,7 +34,7 @@ section.method ul li {
 section.personal-info ul li {
 	display: flex;
 	flex-wrap: wrap;
-	margin-bottom: 0.5em;
+	margin-bottom: 1em;
 }
 
 section.personal-info ul li label {
