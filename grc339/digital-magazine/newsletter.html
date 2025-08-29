@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!-- You need this to proper scale in actual mobile devices.-->
+		<link rel="stylesheet" type="text/css" href="style.css" />
+		<link rel="stylesheet" href="https://use.typekit.net/xit6kth.css" />
+		<title>Resonance</title>
+		<!-- Helpful meta tags to fight GitHub aggressive caching-->
+		<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+		<meta http-equiv="Pragma" content="no-cache" />
+		<meta http-equiv="Expires" content="0" />
+	</head>
+	<body>
+		<div class="newsletter-container">
+			<header>
+				<h1>
+					<a href="index.html">
+						<img src="resonancelogo.svg" alt="Resonance Logo" />
+					</a>
+				</h1>
+				<nav>
+					<ul>
+						<li>
+							<a href="#">News</a>
+						</li>
+						<li>
+							<a href="#">Music</a>
+						</li>
+						<li>
+							<a href="#">Events</a>
+						</li>
+						<li>
+							<a href="#">Archives</a>
+						</li>
+						<li>
+							<a href="#">Opinion</a>
+						</li>
+						<li>
+							<a href="newsletter.html">Subscribe to Our Newsletter</a>
+						</li>
+					</ul>
+				</nav>
+			</header>
+			<main class="newsletter">
+				<form>
+					<section class="personalinfo">
+						<h2>Personal Information</h2>
+						<ul>
+							<li><label for="name">Name:</label> <input type="text" name="name" id="name" placeholder="Enter name" /></li>
+							<li><label for="email">Email:</label> <input type="email" name="email" id="email" placeholder="Enter email" /></li>
+						</ul>
+					</section>
+					<section class="preferences">
+						<h2>Newsletter Preferences</h2>
+
+						<ul>
+							<li><input type="checkbox" id="spotlights" value="spotlights" /> <label for="spotlights">Performance Spotlights</label></li>
+							<li><input type="checkbox" id="composershistory" value="composershistory" /> <label for="composershistory">Composers & History</label></li>
+							<li><input type="checkbox" id="newsreviews" value="newsreviews" /> <label for="newsreviews">News & Reviews</label></li>
+							<li><input type="checkbox" id="seasonhighlights" value="seasonhighlights" /> <label for="seasonhighlights">Season Highlights</label></li>
+							<li><input type="checkbox" id="newreleases" value="newreleases" /> <label for="newreleases">New Releases</label></li>
+						</ul>
+					</section>
+					<section class="frequency">
+						<h2>Subscription</h2>
+						<ul>
+							<li>
+								<label for="frequency">Frequency:</label>
+								<select id="frequency" name="frequency">
+									<option value=""></option>
+									<option value="daily">Daily</option>
+									<option value="weekly">Weekly</option>
+									<option value="monthly">Monthly</option>
+									<option value="quarterly">Quarterly</option>
+								</select>
+							</li>
+						</ul>
+					</section>
+					<section class="subscribe">
+						<button type="submit">Subscribe</button>
+					</section>
+				</form>
+			</main>
+			<footer>
+				<p>All rights reserved.</p>
+			</footer>
+			<!-- Same footer as home page. -->
+		</div>
+	</body>
+</html>
